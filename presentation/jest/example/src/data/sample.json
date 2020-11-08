@@ -1,3 +1,4 @@
 {
-    "title": "This is snapshot testing example"
+    "title": "This is snapshot testing example",
+    "description": "This is description for testing example"
 }

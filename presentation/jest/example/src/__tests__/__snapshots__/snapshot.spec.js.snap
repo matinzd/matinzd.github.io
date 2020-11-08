@@ -2,6 +2,7 @@
 
 exports[`sample json should match snapshot 1`] = `
 Object {
+  "description": "This is description for testing example",
   "title": "This is snapshot testing example",
 }
 `;
