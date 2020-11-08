@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "main": "src/index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:updateSnapshot": "jest --updateSnapshot",
+    "test:coverage": "jest --coverage",
+    "test:watch": "jest --watch"
   },
   "license": "MIT",
   "devDependencies": {
